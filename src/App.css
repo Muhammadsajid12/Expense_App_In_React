@@ -1,0 +1,10 @@
+.app {
+  background-color: rgb(73, 72, 72);
+
+  border-radius: 12px;
+}
+.inner {
+  padding: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
